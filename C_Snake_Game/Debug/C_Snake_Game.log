@@ -1,0 +1,9 @@
+﻿  Snake.c
+  main.c
+C:\Users\DOR IDAN\Desktop\C_Snake_Game\C_Snake_Game\main.c(24,9): warning C4013: '_sleep' undefined; assuming extern returning int
+C:\Users\DOR IDAN\Desktop\C_Snake_Game\C_Snake_Game\main.c(32,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\DOR IDAN\Desktop\C_Snake_Game\C_Snake_Game\main.c(32,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\DOR IDAN\Desktop\C_Snake_Game\C_Snake_Game\main.c(32,10): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\DOR IDAN\Desktop\C_Snake_Game\C_Snake_Game\main.c(32,10): message : this argument is used as a buffer size
+  Generating Code...
+  C_Snake_Game.vcxproj -> C:\Users\DOR IDAN\Desktop\C_Snake_Game\Debug\C_Snake_Game.exe
