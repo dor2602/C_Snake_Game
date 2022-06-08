@@ -168,8 +168,8 @@ void CheckIfSnakeCrushed()
 				return;
 			}
 	}
-	else 
-		Game_Over = 1;				
+	else Game_Over = 1; 
+						
 }
 
 bool CheckLocationIfEmpty(Location CheckFoodPlace)
@@ -196,7 +196,8 @@ label2:
 		goto label1;
 }
 
-void GameOver() {
+void GameOver() 
+{
 	printf("\n*****************************\n");
 	printf("=         Game Over !!!     =\n");
 	printf("=============================\n");
